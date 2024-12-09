@@ -1,5 +1,7 @@
 # RoboScrubbers
 Techin 540 Final Project
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/fe626476-4a3b-43a5-9dca-5eb6fe567b6c">
+
 
 # RoboScrubbers: Autonomous Elevator Cleaning Robot
 
