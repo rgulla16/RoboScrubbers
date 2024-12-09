@@ -84,15 +84,19 @@ Set up the robot in the target environment.
 Run the main.py script to initialize the system.
 Use the control panel to start the cleaning routine.
 # Contributors
-Ravinder Gulla – 
-Ankit Shaw - 
-Kate Chen - 
+Ravinder Gulla – rgulla@uw.edu
+
+Ankit Shaw - ankit25@uw.edu
+
+Kate Chen - Chenk18@outlook.com
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgments
 Sound Transit: For providing feedback and insights.
+
 University of Washington: For academic guidance and mentorship.
+
 Open-source libraries and frameworks that made this project possible.
 # Contact
 For inquiries or collaborations, please reach out to Ravinder Gulla at [rgulla@uw.edu].
