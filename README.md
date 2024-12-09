@@ -24,13 +24,26 @@ Prepare for commercial launch and scaling.
 Installation
 Prerequisites
 
-# Hardware: Intel RealSense camera, suction system, robotic vehicle for navigation
+# Hardware: Camera, suction system, scrubbing system, robotic vehicle for navigation
+Intel RealSense D435
+Suction from Dyson slim vacuum/ Ryobi shop vac
+Scrubber from Dyson Slim vacuum 
+Create Roboot for navigation
+Aurduino/Raspberry pi
 
 # Software:
 Python 3.8 or later
 ROS (Robot Operating System)
 OpenCV
+SLAM
 pyrealsense2
+Frontend (Client-Side): React.js with Tailwind CSS
+Backend (Server-Side): Node.js with Express.js
+Database:  PostgreSQL
+API Development: Swagger/OpenAPI
+Version Control: Git with GitHub
+Deployment and DevOps: Docker with AWS
+Testing Tools: Jest
 
 # Steps
 # Clone the repository:
