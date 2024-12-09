@@ -12,13 +12,13 @@ Contaminant Detection: Uses advanced sensors to identify dirt, spills, and other
 Cleaning Mechanism: Equipped with suction and picker systems for thorough cleaning.
 
 # Project Roadmap
-# Phase 1: Research & Requirement Gathering (Sep 2024 - Dec 2024)
+## Phase 1: Research & Requirement Gathering (Sep 2024 - Dec 2024)
 Interviews, surveys, and feedback from potential users.
 Primary and secondary research to understand user needs.
-# Phase 2: Prototyping & Testing (Jan 2025 - Mar 2025)
+## Phase 2: Prototyping & Testing (Jan 2025 - Mar 2025)
 Develop prototypes for deployment in test environments.
 Collect real-world data to refine functionality.
-# Phase 3: Market Engagement & Launch (Apr 2025 - Jun 2025)
+## Phase 3: Market Engagement & Launch (Apr 2025 - Jun 2025)
 Present to transit organizations and corporate stakeholders.
 Prepare for commercial launch and scaling.
 Installation
