@@ -1,8 +1,5 @@
 # RoboScrubbers
 Techin 540 Final Project
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/2efd6de9-9d2f-4f3d-9b0f-6b5cee411e16" alt="Image">
-</div>
 
 # RoboScrubbers: Autonomous Elevator Cleaning Robot
 
@@ -92,10 +89,9 @@ Ravinder Gulla – rgulla@uw.edu
 Ankit Shaw - ankit25@uw.edu
 
 Kate Chen - Chenk18@outlook.com
-<div style="display: flex; justify-content: center;">
+<div width="800" style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/2efd6de9-9d2f-4f3d-9b0f-6b5cee411e16" alt="Image">
 </div>
-<img width="578" alt="image" src="https://github.com/user-attachments/assets/35ef4805-1c0f-4137-ae50-d773059c0608">
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
