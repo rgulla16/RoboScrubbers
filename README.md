@@ -12,7 +12,7 @@ Contaminant Detection: Uses advanced sensors to identify dirt, spills, and other
 Cleaning Mechanism: Equipped with suction and picker systems for thorough cleaning.
 
 # Project Roadmap
-## Phase 1: Research & Requirement Analysuis (Sep 2024 - Dec 2024)
+## Phase 1: Research & Requirement Analysis (Sep 2024 - Dec 2024)
 Interviews, surveys, and feedback from potential users.
 Primary and secondary research to understand user needs.
 ## Phase 2: Prototyping & Testing (Jan 2025 - Mar 2025)
