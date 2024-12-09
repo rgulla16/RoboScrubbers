@@ -37,17 +37,29 @@ Create Roboot for navigation
 Aurduino/Raspberry pi
 
 # Software:
+
 Python 3.8 or later
+
 ROS (Robot Operating System)
+
 OpenCV
+
 SLAM
+
 pyrealsense2
+
 Frontend (Client-Side): React.js with Tailwind CSS
+
 Backend (Server-Side): Node.js with Express.js
+
 Database:  PostgreSQL
+
 API Development: Swagger/OpenAPI
+
 Version Control: Git with GitHub
+
 Deployment and DevOps: Docker with AWS
+
 Testing Tools: Jest
 
 # Steps
