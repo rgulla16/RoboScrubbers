@@ -25,7 +25,7 @@ Installation
 Prerequisites
 
 # Hardware: 
-# Camera, suction system, scrubbing system, robotic vehicle for navigation
+## Camera, suction system, scrubbing system, robotic vehicle for navigation
 Intel RealSense D435
 
 Suction from Dyson slim vacuum/ Ryobi shop vac
